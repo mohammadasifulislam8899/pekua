@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "750132767123",
+    "project_id": "pekua-6cd3b",
+    "storage_bucket": "pekua-6cd3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750132767123:android:c00d4e817c9f90a2cf2066",
+        "android_client_info": {
+          "package_name": "com.droidnest.studio.firestoreexperiment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbvgWe7-a_mTPH8Cq1Bb-AsMOk2Bg5Y3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750132767123:android:14643aed2b86ea83cf2066",
+        "android_client_info": {
+          "package_name": "com.droidnest.studio.gcccbotany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbvgWe7-a_mTPH8Cq1Bb-AsMOk2Bg5Y3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750132767123:android:f0744b8493ded461cf2066",
+        "android_client_info": {
+          "package_name": "com.droidnest.studio.pekualatest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbvgWe7-a_mTPH8Cq1Bb-AsMOk2Bg5Y3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
